@@ -1,4 +1,4 @@
 print("Hola")
 print(" mundo")
 print(" :D")
-print("Tu mamá es mi papá ogt")
+print("y tu papa es mi mama perro")
