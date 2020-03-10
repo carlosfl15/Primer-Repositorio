@@ -1,4 +1,4 @@
 print("Hola")
 print(" mundo")
 print(" :D")
-print("Gras se lo trapearon en el torneo")
+print("Tu mamá es mi papá ogt")
